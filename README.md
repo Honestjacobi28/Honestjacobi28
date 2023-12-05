@@ -28,7 +28,7 @@ Here are some ideas to get you started: -->
 ![Pycharm](https://img.shields.io/badge/pycharm-3670A0?style=for-the-badge&logo=pycharm&logoColor=ffdd54)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
 ![C#](https://img.shields.io/badge/csharp-3670A0?style=for-the-badge&logo=csharp)
-![.NET](https://img.shields.io/badge/.net-3670A0?style=for-the-badge&logo=.net&logoColor=ffdd54)
+![.NET](https://img.shields.io/badge/.net-3670A0?style=for-the-badge&logo=.net)
 ![Visual Studio](https://img.shields.io/badge/visualstudio-3670A0?style=for-the-badge&logo=visualstudio)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter) 
